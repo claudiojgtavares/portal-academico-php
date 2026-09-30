@@ -1,0 +1,2 @@
+<?php require_once __DIR__ . '/../includes/portal_layout.php'; require_login(); portal_layout_start('acesso','Acesso negado','Não tem permissão para abrir esta área.'); ?>
+<div class="ui-panel"><div class="ui-panel-body"><h2>Acesso negado</h2><p style="color:var(--ui-muted)">A sua conta não tem autorização para abrir esta página.</p><a class="ui-btn ui-btn-primary" href="<?= e(home_url_by_roles(current_user()['roles_array'] ?? [])); ?>">Voltar ao painel</a></div></div><?php portal_layout_end(); ?>

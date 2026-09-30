@@ -1,0 +1,2 @@
+/* Compatibility file: all internal pages now use portal-modern.css. */
+@import url('portal-modern.css');

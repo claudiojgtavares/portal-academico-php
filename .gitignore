@@ -1,0 +1,9 @@
+.env
+.idea/
+.vscode/
+vendor/
+uploads/
+assets/uploads/*
+!assets/uploads/.gitkeep
+*.log
+phpunit.xml.cache
