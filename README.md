@@ -33,3 +33,18 @@ Academic bilingual prototype of a PHP/MySQL university management portal. It is 
 It demonstrates applications, seven access profiles, courses, subjects, classes, schedules, grades, attendance, payments, document requests, reports, notifications and audit logs. CSRF protection, secure session cookies, environment-based configuration and upload validation are included.
 
 Run it locally with XAMPP by importing `database/schema.sql` and `database/demo_seed.sql`, copying `.env.example` to `.env`, and opening the local URL. GitHub Pages cannot execute this PHP/MySQL application; the repository, screenshots and local setup are the public evidence.
+
+
+
+<!-- PUBLICATION-ASSETS:BEGIN -->
+## Capturas / Screenshots
+
+The images below are captures from an academic prototype with fictional data. The project does not represent an official institution.
+
+![Portal main](docs/images/screenshots/portal-main.png)
+![Login](docs/images/screenshots/portal-login.png)
+![Teaching](docs/images/screenshots/portal-teaching.png)
+![Events](docs/images/screenshots/portal-events.png)
+![Application](docs/images/screenshots/portal-application.png)
+<!-- PUBLICATION-ASSETS:END -->
+
