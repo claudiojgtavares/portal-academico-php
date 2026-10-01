@@ -41,7 +41,7 @@ Run it locally with XAMPP by importing `database/schema.sql` and `database/demo_
 
 The images below are captures from an academic prototype with fictional data. The project does not represent an official institution.
 
-![Portal main](docs/images/screenshots/portal-main.png)
+![Portal main](docs/images/screenshots/portal-main.webp)
 ![Login](docs/images/screenshots/portal-login.png)
 ![Teaching](docs/images/screenshots/portal-teaching.png)
 ![Events](docs/images/screenshots/portal-events.png)
